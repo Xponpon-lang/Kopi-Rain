@@ -1,0 +1,6 @@
+note:
+link belajar : https://github.com/sandhikagalih/kedai-kopi-kenangan-senja
+
+
+-ukuran gambar menu gambar harusnya kecil contoh 300x300 px, jadi gamabrnya
+tidak kebesaran seperti di web saat di test (file style.css colom 331)
